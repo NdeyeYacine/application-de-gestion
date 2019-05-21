@@ -1,0 +1,8 @@
+Daouda Diouf,g148,Niakh,Rokheya,1989-10-27,778569589,niakh@gmail.com,Present,
+Daouda Diouf,s777,SallSow,Ndeye Yacine,1995-12-20,784254789,sow@gmail.com,exclus,
+Daouda Diouf,s147,Sow,Djiby,1996-12-26,771257898,sowdjiby@gmail.com,Present,
+Alioune Ndiaye,m456,Lam,Amy,1996-12-21,784102365,lamamy@gmail.com,Present,
+Alioune Ndiaye,o103,Gueye,Adama,1983-01-12,774569874,ado@gmail.com,abandon,
+Alioune Ndiaye,m478,Diop,Mara,1988-04-30,701236987,diop@gmail.com,Present,
+Daouda Diouf,b196,Badiane,Elina,1979-08-19,775632598,elina@gmail.com,exclus,
+Daouda Diouf,b196,Badiane,Elina,1979-08-19,775632598,elina@gmail.com,Present,
